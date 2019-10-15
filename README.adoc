@@ -14,3 +14,5 @@ Set the following parameters for database access:
 
 == Swagger
 http: // localhost: 9010 / swagger-ui.html
+
+=== obs: same functions as laboratory-ms but without the parent project dependency
